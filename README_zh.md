@@ -35,6 +35,8 @@
 
 ## 属性文档
 
-`imgList`: `Array`, 图片地址列表
-`size`:`String`, 放大镜主图片区域/放大区域的大小，为正方形`size * size`,仅支持px
-`expandScope`: `Number`, 图片的放大倍数
+| 属性名 |  属性值类型  |  作用 |
+| :-----:|:------:|:------:|
+| imgList | Array[string] | 图片地址 |
+| size | String | 放大镜主图片区域/放大区域的大小，为正方形`size * size`,(仅支持px) |
+| expandScope| Number |  图片的放大倍数|
