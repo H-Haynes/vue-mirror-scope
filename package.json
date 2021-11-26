@@ -31,6 +31,9 @@
     "vue3",
     "magnifier"
   ],
+  "files":[
+    "dist/*"
+  ],
   "author": "hehong_yf@163.com",
   "license": "MIT",
   "bugs": {
