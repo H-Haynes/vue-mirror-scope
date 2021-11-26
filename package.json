@@ -1,6 +1,6 @@
 {
   "name": "vue-mirror-scope",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -19,7 +19,7 @@
     "vite": "^2.6.4"
   },
   "description": "vue3 picture mirror magnify",
-  "main": "index.js",
+  "main": "dist/vue-mirror-scope.es.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/H-Haynes/vue-mirror-scope.git"
