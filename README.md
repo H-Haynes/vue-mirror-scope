@@ -4,6 +4,8 @@
 
 [中文文档](./README_zh.md)
 
+![preview](./src/assets/demo.gif)
+
 `Vue-mirror-scope` is a product picture enlargement for details view components, functions and [Taobao's](https://www.taobao.com) magnifying glass
 
 ## install

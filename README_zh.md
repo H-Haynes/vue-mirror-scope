@@ -4,6 +4,9 @@
 
 [English](README.md)
 
+![preview](./src/assets/demo.gif)
+
+
 `Vue-mirror-scope` 是一款商品图片放大进行细节查看的组件，功能和淘宝的放大镜一致
 
 ## 安装
