@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('../font/iconfont.ttf?t=1637899710861') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-houtui:before {
+  content: "\e667";
+}
+
+.icon-qianjin:before {
+  content: "\e641";
+}
+
