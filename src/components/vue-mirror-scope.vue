@@ -34,7 +34,7 @@ export default defineComponent({
     props: {
         imgList: {
             type: Array,
-            default: () => []
+            default: () => [] as string[]
         },
         size: {
             type: String,
